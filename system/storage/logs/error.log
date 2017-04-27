@@ -1,0 +1,13 @@
+2017-04-04 11:40:27 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\shopthethao\upload\system\library\mail.php on line 158
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: category_description in C:\xampp\htdocs\shopthethao\upload\admin\controller\catalog\category.php on line 551
+2017-04-17 15:29:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\shopthethao\upload\admin\controller\catalog\category.php on line 551
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: keyword in C:\xampp\htdocs\shopthethao\upload\admin\controller\catalog\category.php on line 573
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: parent_id in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 4
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: column in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 4
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: sort_order in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 4
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: status in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 4
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: category_description in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 12
+2017-04-17 15:29:11 - PHP Warning:  Invalid argument supplied for foreach() in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 12
+2017-04-17 15:29:11 - PHP Notice:  Undefined index: parent_id in C:\xampp\htdocs\shopthethao\upload\admin\model\catalog\category.php on line 19
+2017-04-18 9:42:46 - PHP Notice:  Undefined index: name in C:\xampp\htdocs\shopthethao\upload\admin\controller\design\layout.php on line 442
+2017-04-20 9:23:37 - PHP Notice:  Error: Could not load template C:/xampp/htdocs/shopthethao/upload/catalog/view/theme/default/template/information/information.tpl! in C:\xampp\htdocs\shopthethao\upload\system\library\template\php.php on line 23
